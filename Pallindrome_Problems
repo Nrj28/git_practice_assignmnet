@@ -2,8 +2,8 @@
    
    let str="naman";
    let bag="";
-  for(let i=0;i<=str.length-1;i--){
-  if(str[i]!==str[str.length-1]{
+  for(let i=0;i<=str.length-1;i++){
+  if(str[i]==str[str.length-1]{
    bag="Yes";
    else{
    bag="No";
@@ -12,5 +12,4 @@
    console.log(bag)
    }
 
-/// i++,!
    
